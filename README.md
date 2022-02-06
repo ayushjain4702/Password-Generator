@@ -21,4 +21,4 @@ Java desktop application to generate random secure and strong password with lowe
 3. Import it to any Java IDE and run the application.
 
 # Bugs and Feedback
-For bugs,questions and discussions, please use the [GitHub issues](url)
+For bugs,questions and discussions, please use the [GitHub issues](https://github.com/ayushjain4702/Password-Generator/issues)
